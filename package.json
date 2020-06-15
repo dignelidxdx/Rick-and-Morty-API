@@ -19,9 +19,18 @@
     "html-webpack-plugin": "^4.3.0",
     "mini-css-extract-plugin": "0.9.0",
     "node-sass": "^4.14.1",
-    "sass-loader": "^7.0.1",
+    "sass-loader": "7.3.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dignelidxdx/Rick-and-Morty-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dignelidxdx/Rick-and-Morty-API/issues"
+  },
+  "homepage": "https://github.com/dignelidxdx/Rick-and-Morty-API#readme"
 }
